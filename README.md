@@ -1,2 +1,4 @@
 # hello-world
-first repositary - 7th July 2016
+first repository - 7th July 2016
+Made a typo correction to master at readme-edits
+
